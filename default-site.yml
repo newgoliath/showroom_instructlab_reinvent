@@ -1,13 +1,13 @@
 ---
 site:
-  title: Summit Connect - Advanced InstructLab Workshop
+  title: Advanced InstructLab Workshop
   start_page: modules::index.adoc
 
 content:
   sources:
     - url: .
       start_path: content
-      branches: [v19-updates-summit-connect]
+      branches: [reinvent]
 
 ui:
   bundle:
